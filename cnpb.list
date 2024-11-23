@@ -24,3 +24,12 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
+- SRC-IP-CIDR,192.168.1.121/32,,no-resolve DIRECT #拾光坞Nas
+- PROCESS-NAME, cfnat-linux-amd64, DIRECT
+- DOMAIN-SUFFIX, chinamobile.com, DIRECT
+- DOMAIN-SUFFIX, casicunis.com, DIRECT
+- DOMAIN-SUFFIX, casicloud.com, DIRECT
+- DOMAIN-SUFFIX, casic.com, DIRECT
+- DOMAIN-SUFFIX, szcasic.com, DIRECT
+- DOMAIN-SUFFIX, aktv.top, DIRECT
+- DOMAIN-SUFFIX, namesilo.com, DIRECT

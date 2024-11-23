@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,szcasic
 
 #拾光坞Nas
 SRC-IP-CIDR,192.168.1.134/32,,no-resolve
+
 # 域名后缀匹配
 PROCESS-NAME, cfnat-linux-amd64
 DOMAIN-SUFFIX, chinamobile.com

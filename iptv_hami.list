@@ -1,0 +1,8 @@
+# 内容：iptv hami走台湾节点
+# 域名关键字匹配
+geosite:hinet,
+
+domain:cdn.hinet.net
+domain:akamaized.net
+domain:ofissaifreepc.akamaized.net
+domain:litvpc-hichannel.cdn.hinet.net

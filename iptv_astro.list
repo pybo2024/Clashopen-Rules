@@ -5,5 +5,5 @@ DOMAIN-KEYWORD,astro
 # 域名后缀匹配
 DOMAIN-SUFFIX,astro.com.my
 
-geosite:astro,
+geosite:astro
 geosite:akamaized

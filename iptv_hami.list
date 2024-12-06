@@ -2,7 +2,7 @@
 # 域名关键字匹配
 geosite:hinet
 geosite:akamaized
-DOMAIN,cdn.hinet.net
-DOMAIN,akamaized.net
-DOMAIN,ofissaifreepc.akamaized.net
-DOMAIN,litvpc-hichannel.cdn.hinet.net
+DOMAIN-SUFFIX,cdn.hinet.net
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,ofissaifreepc.akamaized.net
+DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net

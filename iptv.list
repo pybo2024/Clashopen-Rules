@@ -1,7 +1,9 @@
-# 内容：iptv
+# 内容：iptv astro走马来西亚、新加坡节点
 # 域名关键字匹配
 DOMAIN-KEYWORD,astro
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,astro.com.my
 
+geosite:astro,
+geosite:akamaized

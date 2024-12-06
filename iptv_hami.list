@@ -1,5 +1,7 @@
 # 内容：iptv hami走台湾节点
 # 域名关键字匹配
+DOMAIN-KEYWORD,hinet
+
 geosite:hinet
 geosite:akamaized
 DOMAIN-SUFFIX,cdn.hinet.net

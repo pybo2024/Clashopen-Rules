@@ -4,14 +4,13 @@ DOMAIN-KEYWORD,casic
 DOMAIN-KEYWORD,szcasic
 
 #拾光坞Nas
-SRC-IP-CIDR,192.168.1.134/32,no-resolve
+SRC-IP-CIDR,192.168.1.121/32,no-resolve
 
 # 域名后缀匹配
 
-DOMAIN-SUFFIX, chinamobile.com
 DOMAIN-SUFFIX, casicunis.com
 DOMAIN-SUFFIX, casicloud.com
 DOMAIN-SUFFIX, casic.com
 DOMAIN-SUFFIX, szcasic.com
-DOMAIN-SUFFIX, aktv.top
+#DOMAIN-SUFFIX, aktv.top
 DOMAIN-SUFFIX, namesilo.com

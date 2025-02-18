@@ -8,7 +8,7 @@ SRC-IP-CIDR,192.168.1.121/32,no-resolve
 
 # 域名后缀匹配
 
-DOMAIN-SUFFIX, namesilo.com
-DOMAIN-SUFFIX, argotunnel.com
-DOMAIN-SUFFIX, cfargotunnel.com
-DOMAIN-SUFFIX, v2.argotunnel.com
+DOMAIN-SUFFIX,namesilo.com
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,cfargotunnel.com
+DOMAIN-SUFFIX,v2.argotunnel.com
